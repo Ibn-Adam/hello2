@@ -1,2 +1,2 @@
 # hello2
-this is my first repository or repo for learning git and github!
+this is my first repository or repo for learning git and github.
